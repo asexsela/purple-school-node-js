@@ -1,0 +1,8 @@
+{
+  "name": "purple-school",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:asexsela/purple-school-node-js.git",
+  "author": "Aleksandr Seliukov <asexsela@gmail.com>",
+  "license": "MIT"
+}
